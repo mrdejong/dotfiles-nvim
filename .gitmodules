@@ -13,3 +13,18 @@
 [submodule "pack/bundle/opt/base16-vim-airline-themes"]
 	path = pack/bundle/opt/base16-vim-airline-themes
 	url = https://github.com/dawikur/base16-vim-airline-themes.git
+[submodule "pack/bundle/start/vim-commentary"]
+	path = pack/bundle/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "pack/bundle/start/command-t"]
+	path = pack/bundle/start/command-t
+	url = https://github.com/wincent/command-t
+[submodule "pack/bundle/start/vimagit"]
+	path = pack/bundle/start/vimagit
+	url = https://github.com/jreybert/vimagit
+[submodule "pack/bundle/start/vim-gitgutter"]
+	path = pack/bundle/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/bundle/start/tagbar"]
+	path = pack/bundle/start/tagbar
+	url = https://github.com/majutsushi/tagbar
