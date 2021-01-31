@@ -1,0 +1,15 @@
+[submodule "pack/bundle/opt/base16-vim"]
+	path = pack/bundle/opt/base16-vim
+	url = https://github.com/chriskempson/base16-vim.git
+[submodule "pack/bundle/opt/coc.nvim"]
+	path = pack/bundle/opt/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "pack/bundle/opt/vim-fish"]
+	path = pack/bundle/opt/vim-fish
+	url = https://github.com/dag/vim-fish
+[submodule "pack/bundle/opt/vim-airline"]
+	path = pack/bundle/opt/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/bundle/opt/base16-vim-airline-themes"]
+	path = pack/bundle/opt/base16-vim-airline-themes
+	url = https://github.com/dawikur/base16-vim-airline-themes.git
