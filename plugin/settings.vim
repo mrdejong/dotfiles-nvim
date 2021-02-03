@@ -69,3 +69,7 @@ if has('termguicolors')
 endif
 
 set textwidth=80
+
+if has('nvim')
+  set shell=$SHELL
+endif
