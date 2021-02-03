@@ -16,9 +16,6 @@
 [submodule "pack/bundle/start/vim-commentary"]
 	path = pack/bundle/start/vim-commentary
 	url = https://github.com/tpope/vim-commentary
-[submodule "pack/bundle/start/command-t"]
-	path = pack/bundle/start/command-t
-	url = https://github.com/wincent/command-t
 [submodule "pack/bundle/start/vimagit"]
 	path = pack/bundle/start/vimagit
 	url = https://github.com/jreybert/vimagit
