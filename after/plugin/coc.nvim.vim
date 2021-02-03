@@ -8,7 +8,8 @@ let g:coc_global_extensions = [
       \ 'coc-rust-analyzer',
       \ 'coc-todolist',
       \ 'coc-toml',
-      \ 'coc-graphql'
+      \ 'coc-graphql',
+      \ 'coc-phpactor'
       \ ]
 
 inoremap <silent><expr> <TAB>
