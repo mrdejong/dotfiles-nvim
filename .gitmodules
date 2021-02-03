@@ -28,3 +28,18 @@
 [submodule "pack/bundle/start/tagbar"]
 	path = pack/bundle/start/tagbar
 	url = https://github.com/majutsushi/tagbar
+[submodule "pack/bundle/start/rust.vim"]
+	path = pack/bundle/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim
+[submodule "pack/bundle/start/graphql"]
+	path = pack/bundle/start/graphql
+	url = https://github.com/jparise/vim-graphql.git
+[submodule "pack/bundle/start/vim-tmux-navigator"]
+	path = pack/bundle/start/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule "pack/bundle/start/vim-tmux-runner"]
+	path = pack/bundle/start/vim-tmux-runner
+	url = https://github.com/christoomey/vim-tmux-runner
+[submodule "pack/bundle/start/vim-test"]
+	path = pack/bundle/start/vim-test
+	url = https://github.com/vim-test/vim-test.git
