@@ -3,7 +3,12 @@ let g:coc_global_extensions = [
       \ 'coc-json',
       \ 'coc-vimlsp',
       \ 'coc-explorer',
-      \ 'coc-emmet'
+      \ 'coc-emmet',
+      \ 'coc-rls',
+      \ 'coc-rust-analyzer',
+      \ 'coc-todolist',
+      \ 'coc-toml',
+      \ 'coc-graphql'
       \ ]
 
 inoremap <silent><expr> <TAB>
