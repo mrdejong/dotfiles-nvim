@@ -43,3 +43,9 @@
 [submodule "pack/bundle/start/vim-test"]
 	path = pack/bundle/start/vim-test
 	url = https://github.com/vim-test/vim-test.git
+[submodule "pack/bundle/start/fzf.vim"]
+	path = pack/bundle/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "pack/bundle/start/fzf"]
+	path = pack/bundle/start/fzf
+	url = https://github.com/junegunn/fzf.git
